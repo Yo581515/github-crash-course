@@ -1,3 +1,3 @@
 # Important Instruction
 
-This is a demo repository for practicing Git and HitHub-
+This is a demo repository for practicing Git and HitHub
